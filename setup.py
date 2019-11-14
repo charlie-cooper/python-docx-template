@@ -42,7 +42,7 @@ def get_version(pkg):
 
 setup(name='docxtpl',
       version=get_version('docxtpl'),
-      description='Python docx template engine',
+      description='Python docx template engine fork to handle header variations',
       long_description=long_description,
       classifiers=[
           "Intended Audience :: Developers",
