@@ -1,3 +1,7 @@
+0.6.3-0.1 (2019-11-14)
+-------------------
+- Account for header variations / issues when parsing xml strings
+
 0.6.3 (2019-06-20)
 -------------------
 - PR #207 and #209
